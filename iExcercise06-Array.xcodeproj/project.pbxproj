@@ -8,6 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		B44BA20E29F94AB300C59013 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44BA20D29F94AB300C59013 /* main.swift */; };
+		B44BA21529F94AE400C59013 /* B1.1.TongSoLe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44BA21429F94AE400C59013 /* B1.1.TongSoLe.swift */; };
+		B44BA21729F94B8100C59013 /* B1.2.GiaTriLonNhatNhoNhat.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44BA21629F94B8100C59013 /* B1.2.GiaTriLonNhatNhoNhat.swift */; };
+		B4B7B31629FC3168006B00B9 /* B1.3.TimChuoi.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4B7B31529FC3168006B00B9 /* B1.3.TimChuoi.swift */; };
+		B4B7B31829FC34F4006B00B9 /* B1.4.TinhTong.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4B7B31729FC34F4006B00B9 /* B1.4.TinhTong.swift */; };
+		B4E79FA529FE9E9B007B76B1 /* B1.5.TinhTrungBinhCong.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FA429FE9E9B007B76B1 /* B1.5.TinhTrungBinhCong.swift */; };
+		B4E79FA729FEA4CC007B76B1 /* B1.6.CacSoChanLonHon10.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FA629FEA4CC007B76B1 /* B1.6.CacSoChanLonHon10.swift */; };
+		B4E79FA929FEA75C007B76B1 /* B1.7.ChuoiDoDaiLonHon5.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FA829FEA75C007B76B1 /* B1.7.ChuoiDoDaiLonHon5.swift */; };
+		B4E79FAB29FEA8AF007B76B1 /* B1.8.ChuyenThanhChuoiInHoa.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FAA29FEA8AF007B76B1 /* B1.8.ChuyenThanhChuoiInHoa.swift */; };
+		B4E79FAD29FEAA0A007B76B1 /* B1.9.LocSoNguyenTrongMang.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FAC29FEAA0A007B76B1 /* B1.9.LocSoNguyenTrongMang.swift */; };
+		B4E79FAF29FED05A007B76B1 /* B1.10.BoiSoCua3Va5.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FAE29FED05A007B76B1 /* B1.10.BoiSoCua3Va5.swift */; };
+		B4E79FDC2A04039F007B76B1 /* B2.1.DemSoLanXuatHien.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FDB2A04039F007B76B1 /* B2.1.DemSoLanXuatHien.swift */; };
+		B4E79FDF2A04040A007B76B1 /* B2.2.DemSoLanXuatHienChuoi.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FDE2A04040A007B76B1 /* B2.2.DemSoLanXuatHienChuoi.swift */; };
+		B4E79FE12A040439007B76B1 /* B2.3.TongCapSo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FE02A040439007B76B1 /* B2.3.TongCapSo.swift */; };
+		B4E79FE32A04068E007B76B1 /* B2.4.ChuyenSoThanhChu.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E79FE22A04068E007B76B1 /* B2.4.ChuyenSoThanhChu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +39,20 @@
 /* Begin PBXFileReference section */
 		B44BA20A29F94AB300C59013 /* iExcercise06-Array */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "iExcercise06-Array"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B44BA20D29F94AB300C59013 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B44BA21429F94AE400C59013 /* B1.1.TongSoLe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.1.TongSoLe.swift; sourceTree = "<group>"; };
+		B44BA21629F94B8100C59013 /* B1.2.GiaTriLonNhatNhoNhat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.2.GiaTriLonNhatNhoNhat.swift; sourceTree = "<group>"; };
+		B4B7B31529FC3168006B00B9 /* B1.3.TimChuoi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.3.TimChuoi.swift; sourceTree = "<group>"; };
+		B4B7B31729FC34F4006B00B9 /* B1.4.TinhTong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.4.TinhTong.swift; sourceTree = "<group>"; };
+		B4E79FA429FE9E9B007B76B1 /* B1.5.TinhTrungBinhCong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.5.TinhTrungBinhCong.swift; sourceTree = "<group>"; };
+		B4E79FA629FEA4CC007B76B1 /* B1.6.CacSoChanLonHon10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.6.CacSoChanLonHon10.swift; sourceTree = "<group>"; };
+		B4E79FA829FEA75C007B76B1 /* B1.7.ChuoiDoDaiLonHon5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.7.ChuoiDoDaiLonHon5.swift; sourceTree = "<group>"; };
+		B4E79FAA29FEA8AF007B76B1 /* B1.8.ChuyenThanhChuoiInHoa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.8.ChuyenThanhChuoiInHoa.swift; sourceTree = "<group>"; };
+		B4E79FAC29FEAA0A007B76B1 /* B1.9.LocSoNguyenTrongMang.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.9.LocSoNguyenTrongMang.swift; sourceTree = "<group>"; };
+		B4E79FAE29FED05A007B76B1 /* B1.10.BoiSoCua3Va5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.10.BoiSoCua3Va5.swift; sourceTree = "<group>"; };
+		B4E79FDB2A04039F007B76B1 /* B2.1.DemSoLanXuatHien.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2.1.DemSoLanXuatHien.swift; sourceTree = "<group>"; };
+		B4E79FDE2A04040A007B76B1 /* B2.2.DemSoLanXuatHienChuoi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2.2.DemSoLanXuatHienChuoi.swift; sourceTree = "<group>"; };
+		B4E79FE02A040439007B76B1 /* B2.3.TongCapSo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2.3.TongCapSo.swift; sourceTree = "<group>"; };
+		B4E79FE22A04068E007B76B1 /* B2.4.ChuyenSoThanhChu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2.4.ChuyenSoThanhChu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +86,38 @@
 			isa = PBXGroup;
 			children = (
 				B44BA20D29F94AB300C59013 /* main.swift */,
+				B4E79FDA2A040350007B76B1 /* ArrayExcercise */,
+				B4E79FDD2A0403A9007B76B1 /* Dictionary */,
 			);
 			path = "iExcercise06-Array";
+			sourceTree = "<group>";
+		};
+		B4E79FDA2A040350007B76B1 /* ArrayExcercise */ = {
+			isa = PBXGroup;
+			children = (
+				B44BA21429F94AE400C59013 /* B1.1.TongSoLe.swift */,
+				B44BA21629F94B8100C59013 /* B1.2.GiaTriLonNhatNhoNhat.swift */,
+				B4B7B31529FC3168006B00B9 /* B1.3.TimChuoi.swift */,
+				B4B7B31729FC34F4006B00B9 /* B1.4.TinhTong.swift */,
+				B4E79FA429FE9E9B007B76B1 /* B1.5.TinhTrungBinhCong.swift */,
+				B4E79FA629FEA4CC007B76B1 /* B1.6.CacSoChanLonHon10.swift */,
+				B4E79FA829FEA75C007B76B1 /* B1.7.ChuoiDoDaiLonHon5.swift */,
+				B4E79FAA29FEA8AF007B76B1 /* B1.8.ChuyenThanhChuoiInHoa.swift */,
+				B4E79FAC29FEAA0A007B76B1 /* B1.9.LocSoNguyenTrongMang.swift */,
+				B4E79FAE29FED05A007B76B1 /* B1.10.BoiSoCua3Va5.swift */,
+			);
+			path = ArrayExcercise;
+			sourceTree = "<group>";
+		};
+		B4E79FDD2A0403A9007B76B1 /* Dictionary */ = {
+			isa = PBXGroup;
+			children = (
+				B4E79FDB2A04039F007B76B1 /* B2.1.DemSoLanXuatHien.swift */,
+				B4E79FDE2A04040A007B76B1 /* B2.2.DemSoLanXuatHienChuoi.swift */,
+				B4E79FE02A040439007B76B1 /* B2.3.TongCapSo.swift */,
+				B4E79FE22A04068E007B76B1 /* B2.4.ChuyenSoThanhChu.swift */,
+			);
+			path = Dictionary;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +178,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4E79FE12A040439007B76B1 /* B2.3.TongCapSo.swift in Sources */,
+				B4E79FDF2A04040A007B76B1 /* B2.2.DemSoLanXuatHienChuoi.swift in Sources */,
+				B4E79FAD29FEAA0A007B76B1 /* B1.9.LocSoNguyenTrongMang.swift in Sources */,
+				B4E79FAB29FEA8AF007B76B1 /* B1.8.ChuyenThanhChuoiInHoa.swift in Sources */,
+				B4E79FA929FEA75C007B76B1 /* B1.7.ChuoiDoDaiLonHon5.swift in Sources */,
+				B4E79FAF29FED05A007B76B1 /* B1.10.BoiSoCua3Va5.swift in Sources */,
+				B44BA21729F94B8100C59013 /* B1.2.GiaTriLonNhatNhoNhat.swift in Sources */,
+				B4E79FE32A04068E007B76B1 /* B2.4.ChuyenSoThanhChu.swift in Sources */,
+				B4B7B31629FC3168006B00B9 /* B1.3.TimChuoi.swift in Sources */,
+				B4B7B31829FC34F4006B00B9 /* B1.4.TinhTong.swift in Sources */,
+				B4E79FA529FE9E9B007B76B1 /* B1.5.TinhTrungBinhCong.swift in Sources */,
+				B4E79FDC2A04039F007B76B1 /* B2.1.DemSoLanXuatHien.swift in Sources */,
+				B44BA21529F94AE400C59013 /* B1.1.TongSoLe.swift in Sources */,
 				B44BA20E29F94AB300C59013 /* main.swift in Sources */,
+				B4E79FA729FEA4CC007B76B1 /* B1.6.CacSoChanLonHon10.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
